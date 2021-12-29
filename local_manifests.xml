@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Samsung MSM8916 Common Repos -->
+  <project name="Galaxy-MSM8916/android_device_samsung_msm8916-common" path="device/samsung/msm8916-common" remote="github" revision="lineage-18.1"/>
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-18.1"/>
+
+  <!-- Common Samsung MSM8916 Kernel -->
+  <project name="Galaxy-MSM8916/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" revision="lineage-18.1"/>
+
+  <!-- Vendor Trees (for gt5note10lte) -->
+  <project name="y-learning/proprietary_vendor_samsung_gt5note10lte" path="vendor/samsung" remote="github" revision="lineage-18.1"/>
+
+  <!-- Galaxy Tab E (needed/inherited by Tab A) -->
+  <project name="y-learning/android_device_samsung_gte-common" path="device/samsung/gte-common" remote="github" revision="lineage-18.1"/>
+
+  <!-- Galaxy Tab A -->
+  <project name="psuryatej4android/android_device_samsung_gt5note10lte" path="device/samsung/gt5note10lte" remote="github" revision="lineage-17.1"/>
+
+</manifest>
