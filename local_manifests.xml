@@ -5,7 +5,7 @@
   <project name="Galaxy-MSM8916/android_device_samsung_msm8916-common" path="device/samsung/msm8916-common" remote="github" revision="lineage-18.1"/>
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-18.1"/>
 
-  <!-- Common Samsung MSM8916 Kernel -->
+  <!-- Samsung MSM8916 Common Kernel -->
   <project name="Galaxy-MSM8916/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" revision="lineage-18.1"/>
 
   <!-- Vendor Trees (for gt5note10lte) -->
